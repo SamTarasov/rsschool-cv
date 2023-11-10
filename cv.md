@@ -23,6 +23,7 @@ progress and derive motivation from myself, specifically from the projects I wor
 };
 
 link: https://samtarasov.github.io/Simple/
+      https://samtarasov.github.io/portfolio/
 7. Unfortunately, I don't have any real IT work experience. I have worked as a Customer Service Specialist in a bank and as a Manager in a coffee shop.
 8. I have a high school education.
 9. My English proficiency is at level A1. I recently moved to Spain, so I am actively learning Spanish at level A2.

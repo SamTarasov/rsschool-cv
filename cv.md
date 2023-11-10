@@ -1,6 +1,7 @@
 1. Semen Dmitrievich Kulkov.
 2. Phone: +34 625 810 088
    Email: sema.masson@gmail.com
+          sema_masson@mail.ru
    Telegram: @Young69poeple
    Discord: sem3350
 4. I am 23 years old and have been attempting to enter the IT world for a while. I started with Python and later 
